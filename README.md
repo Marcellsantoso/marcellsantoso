@@ -4,7 +4,7 @@
 - 10yrs professional software development
 - Mentoring & leading tech team
 - CV : https://cutt.ly/marcelcv
-- MyProjects : https://cutt.ly/marcellsantoso
+- MyProjects : https://cutt.ly/marcelprojects
 
 ## Language stacks
 - Flutter
