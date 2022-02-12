@@ -58512,7 +58512,7 @@ return A.dz(s,A.adf(A.ri(7),A.VH(5,this.a.c.c[b])),s,s,new A.eo(s,s,q,r,s,s,B.at
 $S:111}
 A.G5.prototype={
 G(a,b){var s=null,r=t.D
-return A.iM(A.a([new A.c4(B.db,A.cy("Skills",s,s,A.ay(b).S.x,s,s),s),A.pa(A.a([A.dz(s,new A.nE(0.85,"Flutter",s),s,s,s,s,s,s,100),A.ch(s,s,20),A.dz(s,new A.nE(0.8,"PHP",s),s,s,s,s,s,s,100),A.ch(s,s,20),A.dz(s,new A.nE(0.8,"JavaScript",s),s,s,s,s,s,s,100)],r),B.aU,B.fo)],r),B.ai,B.am)}}
+return A.iM(A.a([new A.c4(B.db,A.cy("Skills",s,s,A.ay(b).S.x,s,s),s),A.pa(A.a([A.dz(s,new A.nE(0.9,"Flutter",s),s,s,s,s,s,s,100),A.ch(s,s,20),A.dz(s,new A.nE(0.8,"PHP",s),s,s,s,s,s,s,100),A.ch(s,s,20),A.dz(s,new A.nE(0.8,"JavaScript",s),s,s,s,s,s,s,100)],r),B.aU,B.fo)],r),B.ai,B.am)}}
 A.D2.prototype={
 G(a,b){return A.aje(null,null,this.YU(0,b))},
 YU(a,b){var s=null,r=A.a([new A.Ge(new A.XT(250),!0,s),A.ajm(A.aeM(new A.WO(this),!0,!0,!0,1))],t.D)
