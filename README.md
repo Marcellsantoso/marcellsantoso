@@ -1,16 +1,24 @@
-### Hi there 👋
+# Marcellinus Santoso [ Tech Lead ]
+- Born 1993
+- Full stack & blockchain developer
+- 10yrs professional software development
+- Mentoring & leading tech team
+- CV : https://cutt.ly/marcelcv
+- MyProjects : https://cutt.ly/marcellsantoso
 
-<!--
-**Marcellsantoso/marcellsantoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language stacks
+- Flutter
+- Native Android - Java
+- Native iOS - Swift
+- Javascript
+- Solidity
+- PHP
+- HTML CSS
+- Golang
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other stacks
+- Blockchain : Hardhat
+- CI/CD : CircleCI, Github actions
+- Database : MySQL, NoSQL, Firebase Database
+- Design : Figma, Sketch, Photoshop
+- DevOps : AWS, Google Cloud
