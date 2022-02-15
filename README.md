@@ -3,7 +3,7 @@
 - Full stack & blockchain developer
 - 10yrs professional software development
 - Mentoring & leading tech team
-- CV : https://cutt.ly/marcelcv
+- CV : https://cutt.ly/marcelresume
 - MyProjects : https://cutt.ly/marcelprojects
 
 ## Language stacks
