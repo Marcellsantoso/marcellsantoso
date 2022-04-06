@@ -8,9 +8,10 @@
 
 ## Language stacks
 - Flutter
+- React
 - Native Android - Java
 - Native iOS - Swift
-- Javascript
+- NodeJS / Express
 - Solidity
 - PHP
 - HTML CSS
