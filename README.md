@@ -3,14 +3,15 @@
 - Full stack & blockchain developer
 - 10yrs professional software development
 - Mentoring & leading tech team
-- CV : https://cutt.ly/marcelcv
+- CV : https://cutt.ly/marcelresume
 - MyProjects : https://cutt.ly/marcelprojects
 
 ## Language stacks
 - Flutter
+- React
 - Native Android - Java
 - Native iOS - Swift
-- Javascript
+- NodeJS / Express
 - Solidity
 - PHP
 - HTML CSS
