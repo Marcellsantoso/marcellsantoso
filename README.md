@@ -1,17 +1,17 @@
-# Marcellinus Santoso [ Tech Lead ]
+# Marcellinus Santoso [ FrontEnd Lead / Developer ]
 - Born 1993
-- Full stack & blockchain developer
+- FrontEnd & blockchain developer
 - 10yrs professional software development
 - Mentoring & leading tech team
-- CV : https://cutt.ly/marcelresume
-- MyProjects : https://cutt.ly/marcelprojects
+- CV : https://bit.ly/marcelcv
+- MyProjects : https://bit.ly/marcellsantoso
 
 ## Language stacks
 - Flutter
-- React
+- NextJS / React
+- NestJS / NodeJS
 - Native Android - Java
 - Native iOS - Swift
-- NodeJS / Express
 - Solidity
 - PHP
 - HTML CSS
@@ -19,7 +19,7 @@
 
 ## Other stacks
 - Blockchain : Hardhat
-- CI/CD : CircleCI, Github actions
-- Database : MySQL, NoSQL, Firebase Database
+- CI/CD : CircleCI, Github actions, CodeMagic
+- Database : MySQL, MongoDB, Firebase Database
 - Design : Figma, Sketch, Photoshop
 - DevOps : AWS, Google Cloud
