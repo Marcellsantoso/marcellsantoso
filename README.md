@@ -7,37 +7,34 @@ In addition to my technical skills, I'm deeply committed to providing outstandin
 
 If you're looking for a driven and innovative software developer who can deliver high-quality results, let's connect and discuss how we can work together to bring your vision to life.
 
-- CV : https://bit.ly/marcelcv
-- MyProjects : https://cutt.ly/marcellsantoso
-
 ## Stacks
-- Flutter
-- NextJS
-- NestJS
-- TypeScript
-- Web3 JS
-- Truffle
-- Hardhat
-- Solidity
-- Tailwind CSS
-- MySQL
-- MongoDB
-- Firebase
-- CodeMagic
-- CircleCI
-- Github Action
-- Test-Driven Development
-- Builder.io
-- Strapi
-- Swift
-- Java Android
-- Others
+Flutter
+NextJS
+NestJS
+TypeScript
+Web3 JS
+Truffle
+Hardhat
+Solidity
+Tailwind CSS
+MySQL
+MongoDB
+Firebase
+CodeMagic
+CircleCI
+Github Action
+Test-Driven Development
+Builder.io
+Strapi
+Swift
+Java Android
+Others
 
 ## Others
-- Jira
-- Figma
-- Sketch
-- Photoshop
-- Business Analysis
-- Social Media Ads
-- Project Management
+Jira
+Figma
+Sketch
+Photoshop
+Business Analysis
+Social Media Ads
+Project Management

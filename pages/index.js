@@ -28,13 +28,15 @@ export default function Page({ homepage }) {
     let asd = "none";
     return (
         <>
-            {/* Put your header here. */}
-            <BuilderComponent model="homepage" content={homepage}
-                data={{
-                    asd: asd
-                }
-                }
-            />
+            <div className="gradient">
+                {/* Put your header here. */}
+                <BuilderComponent model="homepage" content={homepage}
+                    data={{
+                        asd: asd
+                    }
+                    }
+                />
+            </div >
             {/* Put your footer here. */}
         </>
     );
